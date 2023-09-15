@@ -1,4 +1,4 @@
-# Desagui de controle de fluxo: Contador
+# Desafio de controle de fluxo: Contador
 ## Controle de Fluxo - Desafio
 
 Vamos exercitar todo o conteúdo apresentado no módulo de Controle de Fluxo codificando o seguinte cenário.
